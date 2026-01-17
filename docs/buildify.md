@@ -13,9 +13,9 @@
 - Job listings view
 
 ### Tasks
-- [ ] Setup design system and base styles
-- [ ] Check/setup Supabase connection
-- [ ] Create database schema (posts, participants tables)
-- [ ] Build admin job posting page
-- [ ] Build candidate application page
-- [ ] Add routing and navigation
+- [x] Setup design system and base styles
+- [x] Check/setup Supabase connection
+- [x] Create database schema (posts, participants tables)
+- [x] Build admin job posting page
+- [x] Build candidate application page
+- [x] Add routing and navigation
